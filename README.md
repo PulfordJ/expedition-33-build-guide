@@ -47,3 +47,10 @@
 - [In Media Res](https://expedition33.wiki.fextralife.com/In+Media+Res) — start every battle with +3 Shield Points
 - [Shield Affinity](https://expedition33.wiki.fextralife.com/Shield+Affinity) — +30% damage while shielded, but taking any hit removes all shields immediately
 - [Powerful Shield](https://expedition33.wiki.fextralife.com/Powerful+Shield) — +10% damage per Shield Point currently on self
+
+---
+
+## HP Conditionals
+
+- [Full Strength](https://expedition33.wiki.fextralife.com/Full+Strength) — +25% damage while at full HP
+- [Shortcut](https://expedition33.wiki.fextralife.com/Shortcut) — immediately takes a turn when HP drops below 30%, once per battle
