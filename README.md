@@ -54,13 +54,14 @@
 
 - [Full Strength](https://expedition33.wiki.fextralife.com/Full+Strength) — +25% damage while at full HP
 - [Shortcut](https://expedition33.wiki.fextralife.com/Shortcut) — immediately takes a turn when HP drops below 30%, once per battle
+- [Faster Than Strong](https://expedition33.wiki.fextralife.com/Faster+Than+Strong) — always play twice in a row, but deal 50% less damage *(replaced by Cheater post-game)*
 
 <details>
 <summary>Post-Game ⚠️ Spoiler warning — these pictos are tied to late-story bosses and NG+ content</summary>
 
 - [Energy Master](https://expedition33.wiki.fextralife.com/Energy+Master) — multiplies all Energising AP gains including dodges and parries
 - [AP Discount](https://expedition33.wiki.fextralife.com/AP+Discount) — all skills cost 1 less AP
-- [Cheater](https://expedition33.wiki.fextralife.com/Cheater) — always play twice in a row
+- [Cheater](https://expedition33.wiki.fextralife.com/Cheater) — always play twice in a row, no damage penalty *(replaces Faster Than Strong)*
 - [Clea's Life](https://expedition33.wiki.fextralife.com/Clea%27s+Life) — recover 100% HP at turn start if no damage was taken since the last turn
 
 </details>
