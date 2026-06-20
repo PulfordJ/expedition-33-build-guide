@@ -1,6 +1,6 @@
 # Directions for Building Better Expedition 33 Characters
 
-> Picto links point to the [Fextralife wiki](https://expedition33.wiki.fextralife.com/Expedition+33+Wiki) — IGN does not maintain individual picto pages.
+> This guide is written for players who have reached **Act III**. Picto links point to the [Fextralife wiki](https://expedition33.wiki.fextralife.com/Expedition+33+Wiki).
 
 ---
 
