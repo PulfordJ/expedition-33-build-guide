@@ -54,7 +54,10 @@
 
 - [Full Strength](https://expedition33.wiki.fextralife.com/Full+Strength) — +25% damage while at full HP
 - [Shortcut](https://expedition33.wiki.fextralife.com/Shortcut) — immediately takes a turn when HP drops below 30%, once per battle
-- [Faster Than Strong](https://expedition33.wiki.fextralife.com/Faster+Than+Strong) — always play twice in a row, but deal 50% less damage *(replaced by Cheater post-game)*
+
+### Other
+
+- [Faster Than Strong](https://expedition33.wiki.fextralife.com/Faster+Than+Strong) — always play twice in a row, but deal 50% less damage. Not worth it on a damage dealer, but excellent on a support character who isn't attacking anyway — particularly Sciel. *(Replaced by Cheater post-game.)*
 
 <details>
 <summary>Post-Game ⚠️ Spoiler warning — these pictos are tied to late-story bosses and NG+ content</summary>
