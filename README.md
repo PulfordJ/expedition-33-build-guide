@@ -6,36 +6,36 @@
 
 ## Path A — AP Generation *(if your problem is not enough AP)*
 
-- [Energising Start I](https://expedition33.wiki.fextralife.com/Energising+Start+I)
-- [Energising Start II](https://expedition33.wiki.fextralife.com/Energising+Start+II)
-- [Energising Start III](https://expedition33.wiki.fextralife.com/Energising+Start+III) / [IV](https://expedition33.wiki.fextralife.com/Energising+Start+IV) *(or [Energising Turn](https://expedition33.wiki.fextralife.com/Energising+Turn) + [Energy Master](https://expedition33.wiki.fextralife.com/Energy+Master) — better but available later)*
-- [Dodger](https://expedition33.wiki.fextralife.com/Dodger)
-- [Dead Energy I](https://expedition33.wiki.fextralife.com/Dead+Energy+I)
-- [Dead Energy II](https://expedition33.wiki.fextralife.com/Dead+Energy+II)
+- [Energising Start I](https://expedition33.wiki.fextralife.com/Energising+Start+I) — +1 AP at battle start
+- [Energising Start II](https://expedition33.wiki.fextralife.com/Energising+Start+II) — another +1 AP at battle start; stacks with I
+- [Energising Start III](https://expedition33.wiki.fextralife.com/Energising+Start+III) / [IV](https://expedition33.wiki.fextralife.com/Energising+Start+IV) — further +1 AP stacks at battle start *(or [Energising Turn](https://expedition33.wiki.fextralife.com/Energising+Turn) — +1 AP at the start of **every** turn + [Energy Master](https://expedition33.wiki.fextralife.com/Energy+Master) — multiplies all Energising AP gains including dodges and parries; better combo but unlocked later)*
+- [Dodger](https://expedition33.wiki.fextralife.com/Dodger) — +1 AP on Perfect Dodge, once per turn
+- [Dead Energy I](https://expedition33.wiki.fextralife.com/Dead+Energy+I) — +3 AP on killing an enemy
+- [Dead Energy II](https://expedition33.wiki.fextralife.com/Dead+Energy+II) — another +3 AP on kill; stacks with I for +6 AP per kill
 
 ### AP++
 
-- [Energising Attack I](https://expedition33.wiki.fextralife.com/Energising+Attack+I)
-- [AP Discount](https://expedition33.wiki.fextralife.com/AP+Discount)
+- [Energising Attack I](https://expedition33.wiki.fextralife.com/Energising+Attack+I) — +1 AP on Base Attack
+- [AP Discount](https://expedition33.wiki.fextralife.com/AP+Discount) — all skills cost 1 less AP
 
 ---
 
 ## Path B — Base Damage *(if your problem is not enough damage)*
 
-- [At Death's Door](https://expedition33.wiki.fextralife.com/At+Death%27s+Door)
-- [Augmented First Strike](https://expedition33.wiki.fextralife.com/Augmented+First+Strike)
-- [Auto Powerful](https://expedition33.wiki.fextralife.com/Auto+Powerful)
-- [First Offensive](https://expedition33.wiki.fextralife.com/First+Offensive)
-- [Glass Cannon](https://expedition33.wiki.fextralife.com/Glass+Cannon)
-- [Inverted Affinity](https://expedition33.wiki.fextralife.com/Inverted+Affinity)
-- [Immaculate](https://expedition33.wiki.fextralife.com/Immaculate)
-- [First Strike](https://expedition33.wiki.fextralife.com/First+Strike) *(maybe)*
-- [Critical Moment](https://expedition33.wiki.fextralife.com/Critical+Moment) *(maybe — guarantees a crit at low HP if crit rate ≥ 50%)*
+- [At Death's Door](https://expedition33.wiki.fextralife.com/At+Death%27s+Door) — +50% damage when HP is below 10%
+- [Augmented First Strike](https://expedition33.wiki.fextralife.com/Augmented+First+Strike) — first hit of the battle deals 50% more damage, once per battle
+- [Auto Powerful](https://expedition33.wiki.fextralife.com/Auto+Powerful) — apply Powerful (damage up) for 3 turns at battle start
+- [First Offensive](https://expedition33.wiki.fextralife.com/First+Offensive) — the first hit you deal and the first hit you take each do 50% more damage
+- [Glass Cannon](https://expedition33.wiki.fextralife.com/Glass+Cannon) — deal 25% more damage but take 25% more damage
+- [Inverted Affinity](https://expedition33.wiki.fextralife.com/Inverted+Affinity) — apply Inverted on self for 3 turns at battle start; deal 50% more damage while Inverted
+- [Immaculate](https://expedition33.wiki.fextralife.com/Immaculate) — +30% damage until the first hit is received
+- [First Strike](https://expedition33.wiki.fextralife.com/First+Strike) *(maybe)* — guarantees you act first in battle
+- [Critical Moment](https://expedition33.wiki.fextralife.com/Critical+Moment) *(maybe — guarantees a crit at low HP if crit rate ≥ 50%)* — +50% Critical Chance when HP is low
 
 ### Base Damage++
 
-- [Tainted](https://expedition33.wiki.fextralife.com/Tainted)
-- [Powered Attack](https://expedition33.wiki.fextralife.com/Powered+Attack)
+- [Tainted](https://expedition33.wiki.fextralife.com/Tainted) — +15% damage for each status effect currently on self
+- [Powered Attack](https://expedition33.wiki.fextralife.com/Powered+Attack) — on each hit, consume 1 AP to deal 20% more damage on that hit
 
 > **Shortcut:** Trigger immediately when falling below 30 HP
 > Synergises with [Last Stand](https://expedition33.wiki.fextralife.com/Last+Stand) — as long as Maelle didn't start the turn above 30 HP, cutting down to 1 HP grants her a second turn.
@@ -44,6 +44,6 @@
 
 ## Extras *(go well together)*
 
-- [In Media Res](https://expedition33.wiki.fextralife.com/In+Media+Res)
-- [Shield Affinity](https://expedition33.wiki.fextralife.com/Shield+Affinity)
-- [Powerful Shield](https://expedition33.wiki.fextralife.com/Powerful+Shield)
+- [In Media Res](https://expedition33.wiki.fextralife.com/In+Media+Res) — start every battle with +3 Shield Points
+- [Shield Affinity](https://expedition33.wiki.fextralife.com/Shield+Affinity) — +30% damage while shielded, but taking any hit removes all shields immediately
+- [Powerful Shield](https://expedition33.wiki.fextralife.com/Powerful+Shield) — +10% damage per Shield Point currently on self
