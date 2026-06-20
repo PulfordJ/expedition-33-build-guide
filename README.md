@@ -56,7 +56,7 @@
 - [Shortcut](https://expedition33.wiki.fextralife.com/Shortcut) — immediately takes a turn when HP drops below 30%, once per battle
 
 <details>
-<summary>Post-Game</summary>
+<summary>Post-Game ⚠️ Spoiler warning — these pictos are tied to late-story bosses and NG+ content</summary>
 
 - [Energy Master](https://expedition33.wiki.fextralife.com/Energy+Master) — multiplies all Energising AP gains including dodges and parries
 - [AP Discount](https://expedition33.wiki.fextralife.com/AP+Discount) — all skills cost 1 less AP
