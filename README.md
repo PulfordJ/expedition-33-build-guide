@@ -62,6 +62,7 @@
 - [Warming Up](https://expedition33.wiki.fextralife.com/Warming+Up) — +5% damage per turn, stacking up to 5 times (+25% max); takes a few turns to come online
 - [Gradient Overcharge](https://expedition33.wiki.fextralife.com/Gradient+Overcharge) — at turn start, consume 3 Gradient Charges to deal 200% more damage that turn
 - [Beneficial Contamination](https://expedition33.wiki.fextralife.com/Beneficial+Contamination) — +2 AP when applying a status effect, once per turn
+- [Rewarding Mark](https://expedition33.wiki.fextralife.com/Rewarding+Mark) — +2 AP when dealing damage to a Marked target, once per turn
 
 <details>
 <summary>Post-Game ⚠️ Spoiler warning — these pictos are tied to late-story bosses and NG+ content</summary>
