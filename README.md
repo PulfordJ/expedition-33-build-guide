@@ -77,3 +77,15 @@
 ## Thank You Update
 
 - [Feint](https://expedition33.wiki.fextralife.com/Feint) — start each turn with 4 Barbapapa stacks; every 5th skill hit deals 600% more damage
+
+---
+
+## Super End Game
+
+<details>
+<summary>⚠️ Spoiler warning — these pictos drop from the Endless Tower (Thank You Update) and represent the hardest content in the game</summary>
+
+- [First Life](https://expedition33.wiki.fextralife.com/First+Life) — +25% damage until you die; then -20% damage for the rest of the battle. One-time bonus that rewards staying alive.
+- [Clea's Death](https://expedition33.wiki.fextralife.com/Clea%27s+Death) — on death, all allies gain +25% damage until they die. Turns a fallen party member into a lasting buff for the rest of the team.
+
+</details>
