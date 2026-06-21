@@ -52,12 +52,15 @@
 
 ### HP Conditionals
 
-- [Full Strength](https://expedition33.wiki.fextralife.com/Full+Strength) — +25% damage while at full HP
+- [Full Strength](https://expedition33.wiki.fextralife.com/Full+Strength) — +25% damage while at full HP *(note: incompatible with Maelle's Last Chance skill, which drops her to 1 HP)*
 - [Shortcut](https://expedition33.wiki.fextralife.com/Shortcut) — immediately takes a turn when HP drops below 30%, once per battle
 
 ### Other
 
 - [Faster Than Strong](https://expedition33.wiki.fextralife.com/Faster+Than+Strong) — always play twice in a row, but deal 50% less damage. Not worth it on a damage dealer, but excellent on a support character who isn't attacking anyway — particularly Sciel. *(Replaced by Cheater post-game.)*
+- [Frenzy](https://expedition33.wiki.fextralife.com/Frenzy) — each skill hit increases subsequent skill hit damage by 10%; rewards long multi-hit combos
+- [Warming Up](https://expedition33.wiki.fextralife.com/Warming+Up) — +5% damage per turn, stacking up to 5 times (+25% max); takes a few turns to come online
+- [Gradient Overcharge](https://expedition33.wiki.fextralife.com/Gradient+Overcharge) — at turn start, consume 3 Gradient Charges to deal 200% more damage that turn
 
 <details>
 <summary>Post-Game ⚠️ Spoiler warning — these pictos are tied to late-story bosses and NG+ content</summary>
